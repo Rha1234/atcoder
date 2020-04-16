@@ -1,0 +1,2 @@
+# atcoder
+Learn or Die
